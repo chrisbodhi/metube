@@ -1,6 +1,6 @@
 MetubeCohort3::Application.routes.draw do
 
-  root 'videos#show_all'
+  root 'videos#locations'
 
 	# get '/videos/new' => 'videos#new', as: 'new_video'
 	# post '/videos' => 'videos#create'
